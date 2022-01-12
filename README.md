@@ -7,8 +7,8 @@ Desafio feito no servidor do discord Codelândia
 
 # Tecnologias utilizadas
 
-- Html
-- Css
+- HTML
+- CSS
 
 # Autor
 ---
